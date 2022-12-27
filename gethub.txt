@@ -1,0 +1,22 @@
+git clone
+cd 
+git add
+git commit -m
+git push
+git pull
+git branch
+git checkout
+
+from push the code
+221  git init
+  222  git add organic-farm-website-template/
+  223  git commit -m "html file aded"
+  224  git branch -m main
+  225  git remote add origin https://github.com/Rohithrakoti/html.git
+  226  git push -u origin main
+  227  history
+
+from pull the code 
+git clone
+git init repo name
+git pull repo url
